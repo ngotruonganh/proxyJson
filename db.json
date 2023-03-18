@@ -1,0 +1,178 @@
+{
+  "order": [
+    {
+      "id": "1",
+      "listProxy": "Order 1",
+      "typeProxy": "Order 1",
+      "country": "Order 1",
+      "count": 2,
+      "dayOfPurchase": "Order 1",
+      "numberOfDayPurchase": "Order 1",
+      "totalCoin": 2,
+      "action": "Order 1",
+      "packageName": "Order 1"
+    },
+    {
+      "id": "2",
+      "listProxy": "Order 2",
+      "typeProxy": "Order 2",
+      "country": "Order 2",
+      "count": 2,
+      "dayOfPurchase": "Order 2",
+      "numberOfDayPurchase": "Order 2",
+      "totalCoin": 2,
+      "action": "Order 2",
+      "packageName": "Order 2"
+    }
+  ],
+  "staticProxy": [
+    {
+      "id": "1",
+      "info": "Static proxy 1 on db",
+      "proxy": "Static proxy 1 on db",
+      "dateExpried": "Static proxy 1 on db",
+      "autoRenew": false,
+      "comment": "Static proxy 1 on db"
+    },
+    {
+      "id": "2",
+      "info": "Static proxy 2 on db",
+      "proxy": "Static proxy 2 on db",
+      "dateExpried": "Static proxy 2 on db",
+      "autoRenew": true,
+      "comment": "Static proxy 2 on db"
+    },
+    {
+      "id": "3",
+      "info": "a",
+      "proxy": "b",
+      "dateExpried": "b",
+      "autoRenew": true,
+      "comment": "b"
+    },
+    {
+      "id": "4",
+      "info": "b",
+      "proxy": "b",
+      "dateExpried": "b",
+      "autoRenew": true,
+      "comment": "b"
+    },
+    {
+      "id": "5",
+      "info": "Static proxy 5 on db",
+      "proxy": "Static proxy 5 on db",
+      "dateExpried": "Static proxy 5 on db",
+      "autoRenew": false,
+      "comment": "Static proxy 5 on db"
+    },
+    {
+      "id": "6",
+      "info": "Static proxy 6 on db",
+      "proxy": "Static proxy 6 on db",
+      "dateExpried": "Static proxy 6 on db",
+      "autoRenew": true,
+      "comment": "Static proxy 6 on db"
+    },
+    {
+      "id": "7",
+      "info": "Static proxy 7 on db",
+      "proxy": "Static proxy 7 on db",
+      "dateExpried": "Static proxy 7 on db",
+      "autoRenew": false,
+      "comment": "Static proxy 7 on db"
+    },
+    {
+      "id": "8",
+      "info": "Static proxy 8 on db",
+      "proxy": "Static proxy 8 on db",
+      "dateExpried": "Static proxy 8 on db",
+      "autoRenew": true,
+      "comment": "Static proxy 8 on db"
+    }
+  ],
+  "staticTag": [
+    {
+      "id": 14,
+      "name": "sssssasdfasasdfasdf"
+    },
+    {
+      "id": 18,
+      "name": "123"
+    },
+    {
+      "id": 19,
+      "name": "abc"
+    },
+    {
+      "id": 20,
+      "name": "defef"
+    },
+    {
+      "id": 21,
+      "name": "a"
+    },
+    {
+      "id": 22,
+      "name": "a"
+    },
+    {
+      "id": 23,
+      "name": "a"
+    },
+    {
+      "id": 24,
+      "name": "b"
+    }
+  ],
+  "rotatingProxy": [
+    {
+      "id": "1",
+      "info": "Rotating proxy 1 on db",
+      "proxy": "Rotating proxy 1 on db",
+      "dateExpried": "Rotating proxy 1 on db",
+      "autoRenew": true,
+      "comment": "Rotating proxy 1 on db"
+    },
+    {
+      "id": "2",
+      "info": "Rotating proxy 2 on db",
+      "proxy": "Rotating proxy 2 on db",
+      "dateExpried": "Rotating proxy 2 on db",
+      "autoRenew": false,
+      "comment": "Rotating proxy 2 on db"
+    }
+  ],
+  "rotatingTag": [
+    {
+      "id": "01msTSX",
+      "name": "sdafs"
+    },
+    {
+      "id": "tuytBOe",
+      "name": "sadfs"
+    },
+    {
+      "id": "tvjO1v5",
+      "name": "sdfa"
+    },
+    {
+      "id": "UXRbcX2",
+      "name": "abc"
+    }
+  ],
+  "proxyExpired": [
+    {
+      "id": "1",
+      "info": "proxyExpired 1 on db",
+      "proxy": "proxyExpired 1 on db",
+      "dateExpried": "proxyExpired 1 on db"
+    },
+    {
+      "id": "2",
+      "info": "proxyExpired 2 on db",
+      "proxy": "proxyExpired 2 on db",
+      "dateExpried": "proxyExpired 2 on db"
+    }
+  ]
+}
